@@ -12,7 +12,19 @@ public class ComandoGit {
 		//git commit -m "" - ADD REPOSITORIO DO GIT
 		//git pull - PEGAR DE DIFERENTE DO SERVIDOR GIT --
 		//git push - SUBIR CODIGO PARA O SERVIDOR
-
+		
+		//git config --global user.name "Izac" - configurar usuario
+		//git config --global user.email "izacjunior@gmail.com" - EMAIL
+		//git config --list - VER CONFIGURAÇÃO
+		
+		//git log --decorate - ver log pelas branch
+		//git log --author ="will"
+		//git shortlog -sn
+		//git show hes
+		
+		//git diff - ver as modificaçoes
+		//git diff --name-only - ver nome dos arquivos modificados
+		
 	}
 
 }
