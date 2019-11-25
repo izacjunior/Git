@@ -23,7 +23,12 @@ public class ComandoGit {
 		//git show has
 		
 		//git diff - ver as modificaçoes feitas no codigo
-		//git diff --name-only - ver nome dos arquivos que foram modificados
+		//git diff --name-only - ver somente o nome dos arquivos que foram modificados
+		
+		//git reset HEAD nomeArquivo - voltar arquivo do add tirar
+		//git reset --soft has- Volta o commit para add retirando somente as alterações atraves do has que deseja
+		//git reset --mixed - VOLTA COMMIT E O ADD OS ARQUIVOS 
+		//git reset --hard - Retira tudo que foi alterado 
 		
 	}
 
