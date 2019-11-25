@@ -33,7 +33,11 @@ public class ComandoGit {
 		//git reset --mixed - VOLTA COMMIT E O ADD OS ARQUIVOS 
 		//git reset --hard - Retira tudo que foi alterado 
 			
-		
+		//git checkout -b nomeBranch - CRIAR UMA BRANCH
+		//git branch - NOME DAS BRANCH
+		//git checkout nomeBranch - ACESSAR BRANCH
+		//git branch -D nomeBranch - DELETAR BRANCH
+		//
 		
 	}
 
