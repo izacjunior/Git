@@ -15,15 +15,15 @@ public class ComandoGit {
 		
 		//git config --global user.name "Izac" - configurar usuario
 		//git config --global user.email "izacjunior@gmail.com" - EMAIL
-		//git config --list - VER CONFIGURA«√O
+		//git config --list - VER CONFIGURA√á√ÉO
 		
 		//git log --decorate - ver log pelas branch
 		//git log --author ="will"
 		//git shortlog -sn
-		//git show hes
+		//git show has
 		
-		//git diff - ver as modificaÁoes
-		//git diff --name-only - ver nome dos arquivos modificados
+		//git diff - ver as modifica√ßoes feitas no codigo
+		//git diff --name-only - ver nome dos arquivos que foram modificados
 		
 	}
 
