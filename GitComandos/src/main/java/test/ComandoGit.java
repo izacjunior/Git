@@ -37,7 +37,18 @@ public class ComandoGit {
 		//git branch - NOME DAS BRANCH
 		//git checkout nomeBranch - ACESSAR BRANCH
 		//git branch -D nomeBranch - DELETAR BRANCH
+		//git push origin : nomeBranch
+		
+		//git stash apply- RETORNAR O QUE ESTAVA GUARDADO
+		//git stash list - APRESENTA TODOS STASH
+		
+		//git config --global alias.s status - CRIAR ATALHO DE COMANDOS EXEMPLO COM STATUS
 		//
+		//git tag -a 1.0.0 -m "FINALIZADO" - CRIAR TAGS
+		//git tag -d nomedaTag - DELETAR TAG
+		//git push origin : nomeTag
+		
+		// 
 		
 	}
 
