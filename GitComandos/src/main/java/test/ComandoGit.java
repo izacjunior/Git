@@ -3,6 +3,9 @@ package test;
 public class ComandoGit {
 
 	public static void main(String[] args) {
+		
+		ConEmuPack.180506
+		
 		//comando basicos git 
 		
 		// git init -INICIALIZAR GIT NO DIRETORIO
@@ -29,6 +32,8 @@ public class ComandoGit {
 		//git reset --soft has- Volta o commit para add retirando somente as alterações atraves do has que deseja
 		//git reset --mixed - VOLTA COMMIT E O ADD OS ARQUIVOS 
 		//git reset --hard - Retira tudo que foi alterado 
+			
+		
 		
 	}
 
